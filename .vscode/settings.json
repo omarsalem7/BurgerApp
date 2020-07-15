@@ -1,3 +1,6 @@
 {
-    "terminal.integrated.cwd": "E:\\myfirst"
+    "terminal.integrated.cwd": "E:\\myfirst",
+    "files.associations": {
+        "*.js": "javascriptreact"
+    }
 }
